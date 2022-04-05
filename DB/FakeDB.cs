@@ -10,7 +10,8 @@ namespace gregslistSharp.DB
         new Car("Chevy", 1978),
         new Car("Toyota", 2006),
         new Car("Porsche", 2021),
-        new Car("Hyundai", 2022)
+        new Car("Hyundai", 2022),
+        new Car("Hyundai", 2023)
      };
     }
 }
